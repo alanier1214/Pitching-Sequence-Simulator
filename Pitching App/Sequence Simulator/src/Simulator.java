@@ -2,7 +2,7 @@
 import java.awt.*;
 import javax.swing.*;
 //import java.util.Arrays;
-
+ 
 public class Simulator {
 
     static int velo = 90;
